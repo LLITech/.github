@@ -37,6 +37,7 @@ Para consultas comerciais, entre em contato através:
 Todos os conteúdos deste repositório são de propriedade da **LLI Soluções Tecnológicas** e estão protegidos pelas leis de direitos autorais brasileiras. Qualquer uso não autorizado, reprodução ou distribuição destes conteúdos é estritamente proibido, sob pena de ação legal.
 
 ---
-
-🌐 **LLI Tech** - Conectando sua empresa ao futuro da tecnologia.
+<p align="center">
+  🌐 <strong>LLI Tech</strong> - Conectando sua empresa ao futuro da tecnologia.
+</p>
 
